@@ -7,4 +7,5 @@ This bot builds a database using the Wiki resources for this game. Project has a
 /lvl _current-lvl, monster-type_ - Returns the top ten best monsters by experience. Result can be filtered with _monster-type_.<br/>
 /monster _monster-name_ - Returns information on the monster with the specified name.<br/>
 /stat _stat-name, equipment-type_ - Returns a list of equipment with required _stat-name_ and optional _equipment-type_.<br/>
-/status - Gets maintenance data from the official website.<br/>
+/status - Returns maintenance data from the official website.<br/>
+/help - Returns a list of all possible commands.

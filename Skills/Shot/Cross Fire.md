@@ -1,5 +1,6 @@
 # __Cross Fire__ #
->>> Lv 4 Skill; Bow/Bowgun only
+>>> Lv 4 Skill
+Bow/Bowgun only
 **MP Cost:** 400 (buff cast) / 0 (attack cast)
 **Damage Type:** Physical
 
@@ -28,9 +29,12 @@ Maximum charge limit: 2 (levels 1 to 3); 3 (levels 4 to 6); 4 (levels 7 to 9); 5
 Time for each charge: 1second (first charge); 2 seconds (second charge); 5 seconds (third charge); 10 seconds (fourth charge); 17 seconds (fifth charge) [the current charge must be completed before proceeding to the next charge]
 If you get hit, the skill will stop charging; if you get hit while you have no charges, the buff is removed
 **Buff Duration:** Until you cast Cross Fire(attack cast) again OR until you get hit if you have no charges
+
 **Game Description:** "Charge Skill (5 Levels). Attack toward a target and deal damage in a straight line. Power increases as the charge level increases and adds an attack. Add another attack by meeting certain conditions."
-*Bow bonus:* Main Hit Skill Multiplier +((baseDex/500 + 0.5) * number of charges)
-*Bow bonus:* Radius of Main Hit +1m
-*Bowgun bonus:* Additional Hits Skill Multiplier +1
-*Bowgun bonus:* Additional Hits Physical Pierce +(baseDex/10)%
+
+**Bonuses/Penalties:**
+*Bow Bonus:* Main Hit Skill Multiplier +((baseDex/500 + 0.5) * number of charges)
+*Bow Bonus:* Radius of Main Hit +1m
+*Bowgun Bonus:* Additional Hits Skill Multiplier +1
+*Bowgun Bonus:* Additional Hits Physical Pierce +(baseDex/10)%
 Only Main Hit and Decoy Hits are affected by Whack, Long Range and Short Range Damage/Long Range Damage stats. Meanwhile Additional Hits are only affected by Whack

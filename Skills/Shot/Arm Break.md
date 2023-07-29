@@ -20,8 +20,8 @@ __**Ailment:** Lethargy__
 
 **Game Description:** "Attack a target's arm and reduce its attack power. The base element is Neutral and it has Dual Element(Arrow). Chance to inflict Lethargy."
 
-**Bonuses/Penalties**
-*Bowgun bonus:* Skill Multiplier +3
-*Bow bonus:* Lethargy chance +20%
-*Bowgun bonus:* Skill Multiplier +3.5
-*Bowgun penalty:* Lethargy chance -20%
+**Bonuses/Penalties:**
+*Bowgun Bonus:* Skill Multiplier +3
+*Bow Bonus:* Lethargy Chance +20%
+*Bowgun Bonus:* Skill Multiplier +3.5
+*Bowgun Penalty:* Lethargy Chance -20%

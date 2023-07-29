@@ -1,5 +1,6 @@
 # __Fatal Shot__ #
->>> Lv 3 Skill; Bow/Bowgun only
+>>> Lv 3 Skill
+Bow/Bowgun only
 **MP Cost:** 200
 **Damage Type:** Physical
 
@@ -9,7 +10,8 @@
 **Maximum Cast Range:** 14m
 
 **Skill Effect:**
-Critical Rate of this skill increased by +40 (estimated)
-Accuracy of this skill decreased by 0 (still need investigation)
+Critical Rate of this skill increased by +40 (Estimated)
+Accuracy of this skill decreased by 0 (Unsure)
 This skill can extend tap break time: Floor (skill level/2), {If this skill attack hit as miss/evaded/grazed, it doesn't extend break time}
+
 **Game Description:** A shot skill that pierces through a strong armor. It's a unique attack with a high critical rate, but low accuracy. If it hits the target right, the tap time to break monster's part will be extended.

@@ -11,6 +11,9 @@
 This skill has Physical Pierce +(4 * Skill Level)% on the second hit
 Physical Pierce +(8 * Skill Level)% on the third hit
 **Maximum Cast Range:** 12m
+> 
 **Game Description:** "Consecutively shoot at a point. The damage dealt increases attack by attack."
-*Bow bonus:* Skill Multiplier +0.25
-*Bowgun bonus:* Second hit's Physical Pierce +10%; third hit's Physical Pierce +20%
+>
+> **Bonuses/Penalties:**
+> *Bow Bonus:* Skill Multiplier +0.25
+> *Bowgun Bonus:* Second hit's Physical Pierce +10%; third hit's Physical Pierce +20%

@@ -1,5 +1,6 @@
 # __Samurai Archery__ #
->>> Lv 5; Sub Katana only
+>>> Level 5
+Sub Katana Only
 
 **Passive Effect:**
 WATK increased by (Katana’s BaseWATK * 0.1 * Skill Level), but only up to a maximum of (Bow’s BaseWATK * Bow’s baseStability * 0.1 * Skill Level)

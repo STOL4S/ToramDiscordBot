@@ -1,5 +1,6 @@
 # __Parabola Shot__ #
->>> Lv 5; Bow/Bowgun/Arrow only
+>>> Level 5
+Bow/Bowgun/Arrow only
 **MP Cost: 400
 
 **Base Skill Multiplier:** 7.5 + 0.25 * Skill Level + Total Dex/100
@@ -20,4 +21,6 @@ If you’re bow or bowgun, then using this skill and launching an attack that do
 This skill damage is affected by lrd% only, no matter what range between you and target, still uses lrd%.
 
 **Game Description:** “Attacks by firing a projectile that follows a parabolic path. The attack range is always the same, but the direction can be changed with the arrow keys when firing. Chance to inflict Silence.”
+
+**Bonuses/Penalties:**
 As bow/bg, if you use this skill when there is a previous trap in present, then that previous trap will disappear.

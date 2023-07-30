@@ -1,18 +1,18 @@
 # __Retrograde Shot__ #
->>> Lv 5
-Bow only
+>>> Level 5
+Bow Only
 **MP Cost:** 300
 **Damage Type:** Physical
 
 **Base Skill Multiplier:** 5 + 0.5 * Skill Level + Base Dex/100
 **Base Skill Constant:** 300
-**Hit Count:** 1 hit
+**Hit Count:** 1 Hit
 **Maximum Cast Range:** 12m
-**Hit Range:** 100m with 2.5m damage radius
+**Hit Range:** 100m with 2.5m Damage Radius
 
 Additional Damage to Marked target per hit with Shot/Hunter skills
-**Multiplier for each hit:** 1
-**Constant for each hit:** 0
+**Multiplier per Hit:** 1
+**Constant per Hit:** 0
 For every additional hit will increase the next additional hit multiplier by
 (Total Dex * Skill Level/100)%. This effect can gain up to (Floor(Skill Level/4) + 3) times
 To summarise, this additional multi increases everytime additional hit triggers.
@@ -28,7 +28,8 @@ Marked target will get its dodge/flee reduced by [(total DEX+total STR)*0.04]% a
 This Additional Damage is affected by srd/lrd%, but not with Long Range shot skills and combo tags damage. This Additional Damage is based on Physical proration.
 
 **Game Description:** “A Technique of shooting enemies while moving backward. Attacks in a linear range and the target with the most HP that gets hit will be marked.”
-**Effect of the mark:**
+
+**Effect of The Mark:**
 Lowers the dodge rate of market target.
 *The mark is visible to the party members too.*
 Deal additional damage when the marked target is hit with a Shot Skill or Hunter Skill and the power continues to increase up to a certain number of times. 

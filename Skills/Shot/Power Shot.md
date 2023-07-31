@@ -16,12 +16,12 @@ This skill gains Critical Rate +(5* Skill Level) if your target got Slow Ailment
 > 
 > __**Ailment:** Tumble__
 > **Base Ailment Chance:** 20% + (3 * Skill Level)%
-> **Ailment Duration:** 3 seconds
-> **Ailment Resistance:**  3 seconds (Easy and Normal); 6 seconds (Hard); 12 seconds (Nightmare); 18 seconds (Ultimate)
+> **Ailment Duration:** 3 Seconds
+> **Ailment Resistance:**  3 Seconds (Easy and Normal); 6 Seconds (Hard); 12 Seconds (Nightmare); 18 Seconds (Ultimate)
 > 
-> **Game Description:** "Shoot the target with stronger power. The charge time reduces as the skill levels up. Chance to inflict Tumble on the target. Critical rate increases on Slowed targets."
+> **Game Description:** "Shoot the target with stronger power. The charge time reduces as the skill levels up. Chance to inflict Tumble on the target. Critical Rate increases on Slowed targets."
 >
 > **Bonuses/Penalties:**
-*Bow Bonus:* Tumble Chance +40%
-*Bowgun Bonus:* Motion Speed Penalty -50%
-*Bowgun Penalty:* Tumble Chance -40%
+> *Bow Bonus:* Tumble Chance +40%
+> *Bowgun Bonus:* Motion Speed Penalty -50%
+> *Bowgun Penalty:* Tumble Chance -40%

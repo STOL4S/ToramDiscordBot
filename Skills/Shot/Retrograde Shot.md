@@ -14,9 +14,9 @@ Additional Damage to Marked target per hit with Shot/Hunter skills
 **Multiplier per Hit:** 1
 **Constant per Hit:** 0
 For every additional hit will increase the next additional hit multiplier by
-(Total Dex * Skill Level/100)%. This effect can gain up to (Floor(Skill Level/4) + 3) times
-To summarise, this additional multi increases everytime additional hit triggers.
-[1st additional: 1], [then 2nd additional: 1 + dex bonus], [then 3rd additional: 1 + 2x dex bonus], and so on
+(Total Dex * Skill Level/100)%. This effect can gain up to (Floor(Skill Level/4) + 3) per hit.
+To summarize, the additional multiplier increases every time an additional hit is triggered.
+[1st Additional: 1], [2nd Additional: 1 + DEX Bonus], [3rd Additional: 1 + 2x DEX Bonus], and so on.
 
 **Skill Effect:**
 Additional Hit of this skill has 50% Physical Pierce% bonus

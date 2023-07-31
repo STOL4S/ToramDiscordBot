@@ -1,18 +1,18 @@
 # __Cross Fire__ #
->>> Lv 4 Skill
-Bow/Bowgun only
-**MP Cost:** 400 (buff cast) / 0 (attack cast)
+>>> Level 4 Skill
+Bow/Bowgun Only
+**MP Cost:** 400 (Buff Cast) / 0 (Attack Cast)
 **Damage Type:** Physical
 
-**Main Hit Skill Multiplier:** (4 + 0.5 * Skill Level) * number of charges
-**Additional Hits Skill Multiplier:** 2; skill multiplier for each hit
-**Decoy Hit Skill Multiplier:** (0.8 + 0.1 * Skill Level) * number of charges
+**Main Hit Skill Multiplier:** (4 + 0.5 * Skill Level) * Number of Charges
+**Additional Hits Skill Multiplier:** 2 (Skill Multiplier per Hit)
+**Decoy Hit Skill Multiplier:** (0.8 + 0.1 * Skill Level) * Number of Charges
 **Main Hit Skill Constant:** 300 + 10 * Skill Level
-**Additional Hits Skill Constant:** 300 + 10 * Skill Level; constant for each hit
+**Additional Hits Skill Constant:** 300 + 10 * Skill Level (Constant per Hit)
 **Decoy Hit Skill Constant:** 60 + 2 * Skill Level
-**Hit Count:** 1 hit (Main Hit and Decoy Hit); number of charges - 1 (Additional Hits); damage calculation is done for each hit
+**Hit Count:** 1 Hit (Main Hit and Decoy Hit); Number of Charges - 1 (Additional Hits) (Damage Calculated per Hit)
 **Maximum Cast Range:** Buff cast-Unlimited; Attack cast-12m
-**Hit Range:** Length of 100m and radius of 1m; from the caster's position (Main Hit)/ main target (Additional Hits)/ length of 100m and radius of 1m; from the decoy's position (Decoy Hit)
+**Hit Range:** Length of 100m and a radius of 1m from the caster's position (Main Hit) : Main Target (Additional Hits) : Length of 100m and a radius of 1m from the Decoy's Position (Decoy Hit)
 
 **Skill Effect:**
 If you use the attack cast while you have no charges, it will fizzle (and your avatar will look puzzled)

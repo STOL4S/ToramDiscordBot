@@ -5,7 +5,7 @@
  
 **Base Skill Multiplier:** 1 + Floor(Skill Level / 2) * 0.06; (Multiplier per Hit)
 **Base Skill Constant:** 50 + Floor((Skill Level + 1)/2) * 10; (Constant per Hit)
-**Hit Count**: 1 hit (Levels 1 and 2); 2 hits (Levels 3 to 5); 3 hits (Levels 6 to 8); 4 hits (Levels 9 and 10); (Damage Calculated per Hit)
+**Hit Count**: 1 Hit (Levels 1 and 2); 2 Hits (Levels 3 to 5); 3 Hits (Levels 6 to 8); 4 Hits (Levels 9 and 10); (Damage Calculated per Hit)
 **Maximum Cast Range:** 12m
 **Hit Range(Radius):** 1.5m (Levels 1 to 3); 2m (Levels 4 to 6); 2.5m (Levels 7 to 9); 3m (Level 10); Around target position when cast.
 

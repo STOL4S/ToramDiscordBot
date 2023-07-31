@@ -23,4 +23,4 @@ This skill damage is affected by lrd% only, no matter what range between you and
 **Game Description:** “Attacks by firing a projectile that follows a parabolic path. The attack range is always the same, but the direction can be changed with the arrow keys when firing. Chance to inflict Silence.”
 
 **Bonuses/Penalties:**
-*Bow/Bowgun Bonus: If you use this skill when there is a previous trap in present, then that previous trap will disappear.*
+*Bow/Bowgun Bonus:* If you use this skill when there is a previous trap in present, then that previous trap will disappear.

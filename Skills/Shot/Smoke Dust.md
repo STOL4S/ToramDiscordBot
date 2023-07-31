@@ -3,7 +3,7 @@
 Bow/Bowgun/Arrow Only
 **MP Cost:** 500
 **Damage Type:** Physical
-**Element:** Dark; has Dual Element attribute (gets extra element from Arrow sub)
+**Element:** Dark (Dual Element Attribute, Extra Element from Arrow Sub)
 
 **Base Skill Multiplier:** 1.2 + 0.05 * Skill Level
 **Base Skill Constant:** 200 + 30 * Skill Level

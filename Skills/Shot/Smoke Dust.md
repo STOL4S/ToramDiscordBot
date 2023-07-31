@@ -21,7 +21,7 @@ __**Ailment:** Blind__
 **Ailment Duration:** 10 Seconds
 **Ailment Resistance:** None
 
-**Game Description:** "An attack with a smokescreen. Dark element attack. Dual Element with Arrow. Chance to inflict [Blind] on the target. Increases accuracy rate for a while."
+**Game Description:** "An attack with a smokescreen. Dark element attack. Dual Element with Arrow. Chance to inflict Blind on the target. Increases accuracy rate for a while."
 
 **Bonuses/Penalties:**
 *Bow Bonus:* Skill Multiplier +2

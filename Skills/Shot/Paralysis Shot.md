@@ -1,17 +1,17 @@
 # __Paralysis Shot__ #
->>> Lv 2 Skill
-Bow/Bowgun/Arrow only
+>>> Level 2 Skill
+Bow/Bowgun/Arrow Only
 **MP Cost:** 300
 **Damage Type:** Physical
-**Element:** Wind; has Dual Element attribute (gets extra element from Arrow sub)
+**Element:** Wind (Dual Element Attribute, Extra Element from Arrow Sub)
 
 **Base Skill Multiplier:** 1.1 + 0.05 * Skill Level
 **Base Skill Constant:** 100 + 20 * Skill Level
 **Hit Count:** 1 Hit
 **Maximum Cast Range:** 14m
 
-If enemy got Paralysis ailments by using this skill, the skill multiplier and constant will increase for that hit only
-Bonus Base Skill Multiplier +(1 + baseDex/100)
+If enemy receives the Paralysis Ailment by using this skill, the skill multiplier and constant will increase for that hit only
+**Bonus Base Skill Multiplier:** +(1 + baseDex/100)
 
 **Buff Effect:** Increase Stability by +(Skill Level)%
 **Buff Duration:** 10 Seconds

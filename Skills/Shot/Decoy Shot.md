@@ -1,9 +1,9 @@
 # __Decoy Shot__ #
->>> Lv 4 Skill
+>>> Level 4 Skill
 No Limit
 **MP Cost:** 400
-**Maximum Cast Range:** Theoretically infinite (limited to 100m)
-**Base Cast Time:** 1 second; affected by Cast Speed
+**Maximum Cast Range:** Theoretically Infinite (Limited to 100m)
+**Base Cast Time:** 1 Second (Affected by Cast Speed)
 
 **Skill Effect:**
 Places a decoy that auto attacks as long as the main target is within its range; full Attack MP Recovery and Aggro applies, but the decoy doesn't prorate

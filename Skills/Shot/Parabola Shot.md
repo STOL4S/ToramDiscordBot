@@ -1,16 +1,16 @@
 # __Parabola Shot__ #
 >>> Level 5
-Bow/Bowgun/Arrow only
+Bow/Bowgun/Arrow Only
 **MP Cost: 400
 
 **Base Skill Multiplier:** 7.5 + 0.25 * Skill Level + Total Dex/100
 **Base Skill Constant:** 400
-**Hit Count:** 1 hit
+**Hit Count:** 1 Hit
 **Maximum Cast Range:** 24m
-**Hit Range:** (0.5 * Skill Level)m radius
+**Hit Range:** (0.5 * Skill Level) Meter Radius
 **Landing distance:** Default to the Bow/Bowgun’s Auto Attack Max Range
 
-**Ailment:** Silence
+__**Ailment:** Silence__
 **Base Ailment Chance:** 100%
 **Ailment Duration:** 15 sec
 **Ailment Resistance:** None
@@ -23,4 +23,4 @@ This skill damage is affected by lrd% only, no matter what range between you and
 **Game Description:** “Attacks by firing a projectile that follows a parabolic path. The attack range is always the same, but the direction can be changed with the arrow keys when firing. Chance to inflict Silence.”
 
 **Bonuses/Penalties:**
-As bow/bg, if you use this skill when there is a previous trap in present, then that previous trap will disappear.
+*Bow/Bowgun Bonus: If you use this skill when there is a previous trap in present, then that previous trap will disappear.*

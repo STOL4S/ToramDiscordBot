@@ -1,17 +1,17 @@
 # __Moeba Shot__ #
->>> Lv 1 Skill
-Bow/Bowgun/Arrow only
+>>> Level 1 Skill
+Bow/Bowgun/Arrow Only
 **MP Cost:** 100
 **Damage Type:** Physical
-**Element: Water** has Dual Element attribute (gets extra element from Arrow sub)
+**Element: Water** (Dual Element, Extra Element from Arrow Sub)
 
 **Base Skill Multiplier:** 1 + 0.05 * Skill Level
 **Base Skill Constant:** 50 + 5 * Skill Level
-**Hit Count:** 1 hit
+**Hit Count:** 1 Hit
 **Maximum Cast Range:** 14m
 
 If enemy got Slow ailments by using this skill, the skill multiplier and constant will increase for that hit only
-Bonus Base Skill Multiplier +(0.5 + baseDex/100)
+**Bonus Base Skill Multiplier** +(0.5 + baseDex/100)
 
 __**Ailment:** Slow__
 **Base Ailment Chance:** 50% + (2 * Skill Level)%

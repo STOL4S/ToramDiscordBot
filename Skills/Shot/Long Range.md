@@ -1,5 +1,5 @@
 # __Long Range_ #
->>> Lv 2 Skill
+>>> Level 2 Skill
 No Limit
 **Passive Effect:** Increases the damage of all skills that have a Maximum Cast Range of 8m or higher by (Skill Level)%
 
